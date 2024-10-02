@@ -1,0 +1,65 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Token and Credentials
+credentials.json
+token.pickle
+
+# SQLite Database Files
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+
+# VSCode settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.cache
+coverage.xml
+nosetests.xml
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+
+# IDE specific files (e.g., JetBrains, VS Code)
+.idea/
+*.iml
+
+# CustomTkinter build output
+build/
+dist/
+
