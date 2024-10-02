@@ -4,8 +4,8 @@ from email.mime.multipart import MIMEMultipart
 
 def send_email_notification(to_email, subject, body):
     """Send an email notification."""
-    from_email = "your_email@example.com"  # Change to your email
-    password = "your_email_password"  # Change to your email password
+    from_email = "liamolivier575.lo@gmail.com" 
+    password = "Ysterhond123"  
 
     msg = MIMEMultipart()
     msg['From'] = from_email
